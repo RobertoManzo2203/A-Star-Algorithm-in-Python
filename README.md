@@ -1,1 +1,1 @@
-# A-Star-algorith-in-python
+# A-Star-algorithm-in-python
